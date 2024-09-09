@@ -1,0 +1,8 @@
+/* Home.module.css */
+.background {
+    background-image: url("../image/roboimg.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 91.4vh;
+    /* Ensure the background covers the entire viewport */
+}
